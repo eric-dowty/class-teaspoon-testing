@@ -12,7 +12,6 @@ group :development, :test do
   gem 'byebug'
   gem 'teaspoon'
   gem 'teaspoon-mocha'
-  
   gem 'web-console', '~> 2.0'
   gem 'spring'
 end
